@@ -47,6 +47,7 @@
   line-height: 2;
 }
 
+/* Команда */
 .team-title {
   font-style: normal;
   font-weight: 500;
@@ -59,4 +60,8 @@
   font-style: normal;
   font-size: 16px;
   line-height: 1.2;
+}
+
+.nav-link.link-now {
+  color: var(--brand-color);
 }
