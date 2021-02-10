@@ -7,6 +7,10 @@
   color: var(--second-color);
 }
 
+.nav-link.link-now {
+  color: var(--brand-color);
+}
+
 /* Герой */
 .hero {
   background-color: var(--bg-color);
@@ -62,6 +66,6 @@
   line-height: 1.2;
 }
 
-.nav-link.link-now {
-  color: var(--brand-color);
+.section-team {
+  background-color: #f5f4fa;
 }
